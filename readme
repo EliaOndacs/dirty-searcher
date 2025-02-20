@@ -1,8 +1,4 @@
 
-a search engine for searching and indexing a directory of text files
-
-COMMANDS:
-    index : will index all the text files {.txt, .md}
-    query : search in all the indexed files
-    app   : will launch the dedicated ui application for better searching experience
+a search engine for searching and indexing a directory of files
+enjoy;
 
